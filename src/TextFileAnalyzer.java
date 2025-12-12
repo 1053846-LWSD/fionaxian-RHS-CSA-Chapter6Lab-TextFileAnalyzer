@@ -63,7 +63,7 @@ public class TextFileAnalyzer {
         //TODO: Loop through each line in the file and 
         //report the number of scores in each line in the new file results.txt:
         //  - use a while loop
-        //  - use hasNextLine() method
+        //  - use hasNextLine(), hasNextInt(), nextInt() method
         //  - print output in new printStream output: 
         //    output.println("Line " + lineNumber + " has " + count + " scores.");
     
